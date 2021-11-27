@@ -15,7 +15,7 @@ This way:
 2. I have an end in sight that I can target and know I can walk away from the project afterwards
 
 ## Use
-close the repo and `pip install sunk_cost_timer`
+clone the repo and `pip install sunk_cost_timer` this will install an executable you can run from your terminal.  Just type `sunk_cost_timer` and the first time the terminal will prompt you to enter a time limit for the project.  The program will create a file in pace called sunk_cost_time.txt that stores the time remaining and update it accordingly.  Next time you run the program it will use the time remaining in this file.
 
 
 
