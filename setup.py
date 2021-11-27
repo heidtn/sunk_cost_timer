@@ -7,6 +7,7 @@ setup(name='sunk_cost_timer',
       description='A timer to manage project time investment',
       install_requires=[
           'PySide2',
+          'beepy'
       ],
       author='Nathan Heidt',
       author_email='strigusconsilium@gmail.com',
